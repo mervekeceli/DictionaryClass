@@ -1,1 +1,1 @@
-# C#'ta var olan Dictionary yapısını kendi Dictionary sınıfını oluşturarak yapan program.
+# C#'ta var olan Dictionary yapısını Class yapısı kullanılarak gerçekleştirilen program.
